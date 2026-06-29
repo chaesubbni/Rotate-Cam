@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/855c1c21-a7bd-4ef5-8916-b0c2a28a5254
 https://github.com/user-attachments/assets/3c2505d6-09a1-41e3-9ca8-cfe805532669
 
 
-## 역기전력을 활용한 급제동 시스템
+## 모터의 역기전력을 활용한 급제동 시스템
 
 물리적 충돌 방지를 위해 초음파 센서로 실시간 거리를 측정하고 임계값 이내로 장애물 접근 시 즉시 모터의 역기전력을 활용하여 모터를 급제동 시키는 안전 로직을 구현했습니다.
 
