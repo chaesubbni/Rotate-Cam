@@ -8,6 +8,10 @@
 
 <img width="3024" height="4032" alt="METLAB상장" src="https://github.com/user-attachments/assets/ab61ed52-731a-4e5b-bfaf-ccf451c37a1a" />
 
+## 시연 영상
+
+
+
 ## 모터 제어 시스템
 
 모터를 안정적으로 제어하기 위해 L298N 모터 드라이버를 활용한 PWM 속도 제어 및 방향 제어 로직을 구현하였습니다.
@@ -61,3 +65,10 @@ https://github.com/user-attachments/assets/00178298-9aa9-41ed-b74c-a00615e8e4e9
 <img width="1596" height="637" alt="git1" src="https://github.com/user-attachments/assets/6593a4e8-ebd5-41d0-9ba4-9d98f33e0c2f" />
 
 <img width="1596" height="597" alt="git2" src="https://github.com/user-attachments/assets/5d3910c6-7d6b-442b-b1b6-a5159d7df30e" />
+
+
+## 물방울 제거 성능
+
+https://github.com/user-attachments/assets/00bb99ab-7153-49c6-bd74-f19fb00f674f
+
+
