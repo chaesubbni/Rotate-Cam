@@ -28,5 +28,7 @@
 
 https://github.com/user-attachments/assets/855c1c21-a7bd-4ef5-8916-b0c2a28a5254
 
-- 최종 완성본
+- DC 모터 속도 제어 - 버튼을 누를때마다 모터 회전 속도가 빨라집니다.
+
+https://github.com/user-attachments/assets/3c2505d6-09a1-41e3-9ca8-cfe805532669
 
