@@ -31,3 +31,12 @@ https://github.com/user-attachments/assets/855c1c21-a7bd-4ef5-8916-b0c2a28a5254
 
 https://github.com/user-attachments/assets/3c2505d6-09a1-41e3-9ca8-cfe805532669
 
+
+## 초음파 센서 기반 안전 제동 시스템
+
+물리적 충돌 방지를 위해 초음파 센서로 실시간 거리를 측정하고 임계값 이내로 장애물 접근 시 즉시 모터를 정지시키는 안전 로직을 구현했습니다.
+- Active Braking 매커니즘
+- 단순 PWM을 0%로 제어해 모터의 관성으로 정지시키는 것이 아닌 H-브릿지 상태를 High, High로 강제 전환해 이 과정에서 발생하는 역기전력을 활용하여 모터의 회전을 물리적으로 빠르게 감쇠시켜 급정거를 구현하였습니다.
+
+https://github.com/user-attachments/assets/50817b6f-f019-4f1c-95ad-8dae59e17fcc
+
