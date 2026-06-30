@@ -13,7 +13,7 @@
 <img width="3024" height="4032" alt="METLAB상장" src="https://github.com/user-attachments/assets/ab61ed52-731a-4e5b-bfaf-ccf451c37a1a" />
 
 ## 시연 영상
-- 이미지에 빗방울이 감지되면 그 즉시 모터가 회전해 렌즈를 회전시키고 사람이 접근하면 모터의 역기전력을 활용해 모터를 급제동시키는 시스템입니다.
+- 이미지에 빗방울이 감지되면 그 즉시 UART 통신으로 1을 전달해 화면 왼쪽 아래에 위치한 모터가 그 즉시 작동해 렌즈를 회전시키고 사람이 접근하면 모터의 역기전력을 활용해 모터를 급제동시키는 시스템입니다.
 
 https://github.com/user-attachments/assets/b238495e-c8b1-45f0-952e-df2ec17ab2de
 
